@@ -1,0 +1,31 @@
+.owner-image{
+	width:60px;
+	height:60px;
+	border-radius:50%;
+	border:2px solid #777;
+	float: right;
+	margin-bottom: 5px;
+	vertical-align: top;
+	margin-top: -5px;
+}
+.user-image{
+	width:40px;
+	height:40px;
+	border-radius:50%;
+	border:4px solid #fff;	
+}
+p{
+	color: #fff;
+}
+.shadow a:hover{
+	text-decoration: none!important;
+}
+.divider{
+	border-right:2px solid #000;
+}
+.remove-lpadding{
+	padding-left: 0px;
+}
+.remove-rpadding{
+	padding-right: opx;
+}
